@@ -18,17 +18,12 @@ body
     font-size: 15px;
 }
 
-.history
-{
-    margin: 0px 100px 50px 100px;
-}
 
 li
 {
     text-align: left;
     font-size: 16,5px;
     line-height: 70px;
-    margin: 0px 200px 0px 200px;
 }
 
 ol
